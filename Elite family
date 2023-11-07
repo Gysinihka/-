@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #ffffff; /* Белый фон */
+        }
+
+        h1 {
+            color: #800080; /* Фиолетовый цвет текста */
+        }
+    </style>
+    <title>Elite Family</title>
+</head>
+<body>
+    <h1>Elite Family</h1>
+</body>
+</html>
